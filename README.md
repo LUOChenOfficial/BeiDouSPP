@@ -1,1 +1,2 @@
-北斗伪距单点定位。数据都在Data里，myPos是定位结果，CalSpp计算结果残差
+北斗伪距单点定位
+数据都在Data里，myPos是定位结果，CalSpp计算结果残差
